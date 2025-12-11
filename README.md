@@ -131,7 +131,3 @@ MIT License - See LICENSE file for details
 - GitHub: https://github.com/EliWeiss1
 - LinkedIn: https://www.linkedin.com/in/eli-weiss-40803a330/
 - Email: eliisaweiss@gmail.com
-
----
-
-⭐ If you find this project useful, please consider starring the repository!
